@@ -1,0 +1,51 @@
+.main {
+    border: 2px solid black;
+    width: 400px;
+    margin: 0 auto;
+    background-color: black;
+}
+.result {
+    width: 95%;
+    background-color:#ADCCAB;
+    color: black;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    height: 50px;
+    font-size: 25px;
+    
+}
+.clearbtn{
+    width: 97%;
+    margin-top: 10px;
+    background-color: #1AD5D8;
+    margin-left: 5px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #FFE6A9;
+    width: 90px;
+    margin: 1px;
+    margin-left: 5px;
+    height: 50px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.halfbtn {
+    margin-top: 5px;
+    background-color: tomato;
+    width: 150px;
+    height: 50px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.ftr {
+    text-align: center;
+}
